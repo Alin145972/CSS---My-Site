@@ -1,0 +1,116 @@
+
+  body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  }
+
+  hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+  }
+  
+  h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  }
+
+.top{
+  margin-bottom:50px;
+  background-color: #EAF6F6;
+  padding-top: 40px;
+  padding-bottom: 60px;
+  text-align:left;
+}
+
+.top h3, h1{
+  color: #66BFBF;
+}
+
+
+.pfp-img{
+  margin-right: 50px;
+}
+
+#experience, #skills, .edu, #header{
+  margin: auto;
+}
+
+footer{
+  background-color: #66BFBF;
+  padding: 40px 0 30px;
+  margin-top: 50px;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+div.edu{
+  text-align: center;
+}
+
+ul.myList, ol.myList{
+  display: inline-block;
+  text-align: left;
+}
+
+body.tocolor{
+  background-color: #EAF6F6;
+}
+
+#myHr{
+  margin-top: 20px;
+  border-color: grey;
+}
+
+form label.myLabel{
+  text-align: left;
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border-color: #66BFBF;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.95rem;
+}
+
+
+
